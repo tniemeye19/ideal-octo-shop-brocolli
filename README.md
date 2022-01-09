@@ -1,1 +1,1 @@
-# Shop Shoppe
+# Shop Shoppe (Final Lesson Project)
